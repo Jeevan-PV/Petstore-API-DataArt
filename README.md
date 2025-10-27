@@ -55,7 +55,10 @@ Execute the following command from the root directory of the project:
 
 Bash
 
-    mvn clean test
+   1. mvn clean
+   2. mvn compile
+   3. mvn test
+    
 
 * * *
 
