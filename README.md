@@ -51,7 +51,7 @@ You can run the tests using your IDE or via the command line with Maven.
 
 #### 2\. Running via Command Line (Maven)
 
-Execute the following command from the root directory of the project:
+Execute the following commands from the root directory of the project:
 
 Bash
 
